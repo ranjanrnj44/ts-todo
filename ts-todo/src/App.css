@@ -1,0 +1,14 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(130, 186, 238);
+}
+.heading {
+  text-transform: uppercase;
+  font-size: 4rem;
+  text-align: center;
+  z-index: 1;
+}
